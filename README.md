@@ -19,3 +19,19 @@ Un bug, une idée ? Ouvrez une demande sur la page du projet.
 *La lumière qui guide chaque soigneur.*
 
 </div>
+
+---
+
+## Hello, I am BellaDroode
+
+I am in love with **World of Warcraft**: a magical world where loneliness has no place.
+
+Behind every health bar there is a companion, and healing means watching over them. That is why I write addons: to keep that gesture simple, fast and beautiful.
+
+My project is **[Lyorune](https://github.com/BellaHealFr/Lyorune/blob/main/README.en.md)**, healing frames for World of Warcraft: Forever, available in French and English. The [player guide](https://github.com/BellaHealFr/Lyorune/blob/main/docs/GUIDE.en.md) and the bug form exist in English too.
+
+<div align="center">
+
+*The light that guides every healer.*
+
+</div>
