@@ -8,7 +8,7 @@ Derrière chaque barre de vie se trouve un compagnon de route, et soigner, c'est
 
 | Addon | Pour quoi faire | Version | Téléchargements |
 |---|---|---|---|
-| **[Lyorune](https://github.com/BellaHealFr/Lyorune)** | Cadres de soin pour World of Warcraft: Forever. Soin au clic, touches au survol, soins en route, dissipation, thèmes, mode test, tutoriel intégré. En français et en anglais, sans dépendance. | [![Version](https://img.shields.io/github/v/release/BellaHealFr/Lyorune?label=&color=1e90ff)](https://github.com/BellaHealFr/Lyorune/releases/latest) | [![Téléchargements](https://img.shields.io/github/downloads/BellaHealFr/Lyorune/total?label=&color=success)](https://github.com/BellaHealFr/Lyorune/releases) |
+| **[Lyorune](https://github.com/BellaHealFr/Lyorune)** | Cadres de soin pour World of Warcraft: Forever. Soin au clic, touches au survol, soins en route, dissipation, thèmes, mode test, tutoriel intégré. En français et en anglais, sans dépendance. | [![Version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBellaHealFr%2FLyorune%2Fmain%2Fdocs%2Fbadges%2Fversion.json&label=&color=1e90ff)](https://github.com/BellaHealFr/Lyorune/releases/latest) | [![Téléchargements](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBellaHealFr%2FLyorune%2Fmain%2Fdocs%2Fbadges%2Ftelechargements.json&label=&color=success)](https://github.com/BellaHealFr/Lyorune/releases) |
 
 **Installation** : dans l'onglet **Releases** du projet, téléchargez l'archive `.zip` de la dernière version. Quittez le jeu, décompressez-la dans `World of Warcraft\_forever_\Interface\AddOns\`, puis relancez le jeu.
 
